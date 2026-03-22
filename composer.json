@@ -1,5 +1,5 @@
 {
-    "name": "grazulex/laravel-apiroute",
+    "name": "akrista/laravel-apiroute",
     "description": "Complete API versioning lifecycle management for Laravel",
     "keywords": [
         "laravel",
@@ -18,8 +18,14 @@
             "name": "Jean-Marc Strauven",
             "email": "jms@grazulex.be",
             "homepage": "https://grazulex.be",
-            "role": "Developer"
-        }
+            "role": "Author"
+        },
+        {
+            "name": "Jorge Thomas",
+            "email": "info@notakrista",
+            "homepage": "https://notakrista.com",
+            "role": "Contributor"
+        },
     ],
     "require": {
         "php": "^8.3",
